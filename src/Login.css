@@ -1,0 +1,25 @@
+.Login{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.Login > img{
+    width: 100%;
+}
+
+.Login > a{
+    padding: 25px;
+    color: white;
+    font-weight: 800;
+    font-size: medium;
+    text-decoration: none;
+    border-radius: 99px;
+    background-color:#1db954;
+}
+
+.Login > a:hover{
+    text-decoration: none;
+    background-color: #208a45;
+}
